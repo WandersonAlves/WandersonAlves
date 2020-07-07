@@ -6,25 +6,23 @@ Technology Industries i have worked so far: financial services, health care, edu
 
 ## :phone: Contact information & Links
 
-:email: wandersonalvesferreira2012@gmail.com
-
-:iphone: +55 81 998287685
-
-:link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
+- :iphone: +55 81 998287685
+- :email: wandersonalvesferreira2012@gmail.com
+- :link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
 
 ---
 
 ## :hearts: What i love and use?
 
-- JavaScript + TypeScript (yay)
+- JavaScript + TypeScript (yay) :hearts:
 - NodeJS
-- Golang
+- Golang :hearts:
 - VueJS
 - ReactJS
 - React Native
-- Flutter
-- Kubernetes
-- Micro-services
-- Redis
-- RabbitMQ
+- Flutter :hearts:
+- Kubernetes :hearts:
+- Micro-services :hearts:
+- Redis :hearts:
+- RabbitMQ :hearts:
 - MongoDB
