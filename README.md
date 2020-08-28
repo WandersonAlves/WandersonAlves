@@ -15,14 +15,13 @@ Technology Industries i have worked so far: financial services, health care, edu
 ## :hearts: What i love and use?
 
 - JavaScript + TypeScript (yay) :hearts:
-- NodeJS
-- Golang :hearts:
-- VueJS
-- ReactJS
+- NodeJS :hearts:
+- Golang
+- VueJS :hearts:
+- ReactJS :hearts:
 - React Native
-- Flutter :hearts:
+- Flutter
 - Kubernetes :hearts:
-- Micro-services :hearts:
 - Redis :hearts:
 - RabbitMQ :hearts:
-- MongoDB
+- MongoDB :hearts:
