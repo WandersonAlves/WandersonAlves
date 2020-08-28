@@ -4,13 +4,15 @@ I'm a software engineer based in Recife, Brazil with 6 years of experience in th
 
 Technology Industries i have worked so far: financial services, health care, educational, telcom and sales.
 
+![Cool Story Bro](https://media.giphy.com/media/cS1261gKgUDe0/source.gif)
+
 ## :phone: Contact information & Links
 
 - :iphone: +55 81 998287685
 - :email: wandersonalvesferreira2012@gmail.com
 - :link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
 
----
+![Call me](https://media.giphy.com/media/xTiTncUiSDSGeTGkbC/source.gif)
 
 ## :hearts: What i love and use?
 
@@ -25,3 +27,5 @@ Technology Industries i have worked so far: financial services, health care, edu
 - Redis :hearts:
 - RabbitMQ :hearts:
 - MongoDB :hearts:
+
+![Cat programming](https://media.giphy.com/media/o0vwzuFwCGAFO/source.gif)
