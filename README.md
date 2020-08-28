@@ -12,7 +12,7 @@ Technology Industries i have worked so far: financial services, health care, edu
 - :email: wandersonalvesferreira2012@gmail.com
 - :link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
 
-![Call me](https://media.giphy.com/media/xTiTncUiSDSGeTGkbC/source.gif)
+<img src="https://media.giphy.com/media/xTiTncUiSDSGeTGkbC/source.gif" width="30%" height="30%" />
 
 ## :hearts: What i love and use?
 
