@@ -27,5 +27,3 @@ Technology Industries i have worked so far: financial services, health care, edu
 - Redis :hearts:
 - RabbitMQ :hearts:
 - MongoDB :hearts:
-
-![Cat programming](https://media.giphy.com/media/o0vwzuFwCGAFO/source.gif)
