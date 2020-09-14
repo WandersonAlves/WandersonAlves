@@ -8,7 +8,6 @@ Technology Industries i have worked so far: financial services, health care, edu
 
 ## :phone: Contact information & Links
 
-- :iphone: +55 81 998287685
 - :email: wandersonalvesferreira2012@gmail.com
 - :link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
 
