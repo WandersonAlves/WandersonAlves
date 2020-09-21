@@ -1,4 +1,4 @@
-## Wanderson Alves Ferreira :bowtie: Software Engineer
+# Wanderson Alves :rocket:
 
 I'm a software engineer based in Recife, Brazil with 6 years of experience in the software industry. I have worked with nodeJS backends, web development (vuejs, angular, angularjs, reactjs), prototyping websites and applications (sketch, figma), built CI/CD pipelines (jenkins), planning micro-services architectures in kubernetes. 
 
