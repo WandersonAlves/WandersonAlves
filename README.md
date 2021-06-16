@@ -12,17 +12,3 @@ Technology Industries i have worked so far: financial services, health care, edu
 - :link: https://www.linkedin.com/in/wanderson-alves-575279a1/ (for detailed work experience)
 
 <img src="https://media.giphy.com/media/xTiTncUiSDSGeTGkbC/source.gif" width="30%" height="30%" />
-
-## :hearts: What i love and use?
-
-- JavaScript + TypeScript (yay) :hearts:
-- NodeJS :hearts:
-- Golang
-- VueJS :hearts:
-- ReactJS :hearts:
-- React Native
-- Flutter
-- Kubernetes :hearts:
-- Redis :hearts:
-- RabbitMQ :hearts:
-- MongoDB :hearts:
