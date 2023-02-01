@@ -4,7 +4,7 @@
 
 ⤷ I have worked with nodeJS backends, web development (VueJS, Angular, angularjs, reactjs), prototyping websites and applications (sketch, Figma), built CI/CD pipelines (Jenkins), planning micro-services architectures in Kubernetes.
 
-Technology Industries i have worked so far: financial services, heal
+Technology Industries i have worked so far: financial services, health care, educational, telcom and sales.
 
  <a aligh="left" href="mailto:wandersonalvesferreira2012@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/wanderson-alves-575279a1/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
