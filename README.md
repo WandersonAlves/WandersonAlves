@@ -1,17 +1,16 @@
 # Wanderson Alves :rocket:
 
-### I'm a software engineer based in Pernambuco, Brazil with 9 years of experience in the software industry.
+<b>I'm a software engineer based in Pernambuco, Brazil with ten years of experience in the software industry.</b>
 
-⤷ I have worked with nodeJS backends, web development (VueJS, Angular, angularjs, reactjs), prototyping websites and applications (sketch, Figma), built CI/CD pipelines (Jenkins), planning micro-services architectures in Kubernetes.
+I have worked with nodejs/dotnet/java/ruby backends, vuejs/angularjs/angular@12+/react/vanilla frontends, prototyping websites/application with Figma and Sketchup, built CI/CD pipelines with Jenkins, planned micro-services architectures using Kubernetes.
 
-Technology Industries i have worked so far: financial services, health care, educational, telcom and sales.
+Technology Industries I have worked on so far: financial services, health care, educational, telecom and sales.
 
  <a aligh="left" href="mailto:wandersonalvesferreira2012@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/wanderson-alves-575279a1/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in Pernambuco, Brazil
 
 ϟ Currently Refactoring `yeelight-manager`
-
 
 
  ## Skills
